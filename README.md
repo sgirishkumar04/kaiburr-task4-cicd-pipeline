@@ -36,4 +36,4 @@ The screenshot below shows a successful run of the CI/CD pipeline in the GitHub 
 
 **Screenshot taken with my name and current date/time visible:**
 
-![Successful CI/CD Pipeline Run](./screenshot-pipeline-success.png)
+![Successful CI/CD Pipeline Run](screenshot-pipeline-success.png)
